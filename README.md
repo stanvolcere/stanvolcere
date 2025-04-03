@@ -1,4 +1,4 @@
-# Hi there, I'm Stan Volcere (Vol-Ser) 👋  
+# Hi there, I'm Stan Volcere 👋  
 
 Welcome to my GitHub profile! I'm passionate about software engineering and music.  
 

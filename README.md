@@ -6,5 +6,5 @@ Welcome to my GitHub profile! I'm passionate about software engineering and musi
 - 📫 **How to Reach Me:** hello@stanvolcere.com
 - 🗺️ **Location:** London, United Kingdom
 - 🌱 **Currently Learning:** Web3 + Blockchain
-- ⚡  **Fun fact:** I also produce music: [STANCHEZ](https://linktr.ee/stanchez_music)
+- ⚡  **Fun fact:** I also produce music - [STANCHEZ](https://linktr.ee/stanchez_music)
   
